@@ -273,7 +273,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                  InlineKeyboardButton("ℹ️ Help", callback_data="help"),
                  InlineKeyboardButton("😎 About", callback_data="about") 
                  ],[
-                 InlineKeyboardButton("🗳 Join", url="https://t.me/MF2move),
+                 InlineKeyboardButton("🗳 Join", url="https://t.me/MF2move"),
                  InlineKeyboardButton("🤖 Update", url="https://t.me/FM_MOVE")
                  ]]
             else:
