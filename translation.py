@@ -11,7 +11,7 @@ class LuciferMoringstar(object):
 
 🧑 My Creator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/nobitic/LUCIFER_FM/edit/LuciferMoringstar-Robot)
+📦 My Source : MY Bot
 
 📺 My Tutorial : SORRY
 
